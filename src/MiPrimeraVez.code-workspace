@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Ingeniería en Ciencia de Datos/Internet de las cosas/Arduino/MiPrimeraVez"
+		},
+		{
+			"name": "CargaHyT",
+			"path": "../../CargaHyT"
+		},
+		{
+			"name": "Cargar GPS",
+			"path": "../../Cargar GPS"
+		},
+		{
+			"name": "GPSdeco",
+			"path": "../../GPSdeco"
+		},
+		{
+			"name": "GPS_HyT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
